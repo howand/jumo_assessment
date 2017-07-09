@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java/dev/src"/>
+	<classpathentry kind="src" path="java/test/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/codecheckout/jumo_assessment/dependencies/super-csv-2.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
